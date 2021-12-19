@@ -1,9 +1,10 @@
 # Boxer
 Auto scanning tool that will help you during playing on HackTheBox, TryHackMe...etc
 
-
+<img src="https://raw.githubusercontent.com/UncleJ1ck/Boxer/main/img/boxer.png">
 
 You can go make yourself a cup of tea or coffee and let it do the work for you
+
 # Features
 
 - Nmap scan with -sC and -sV flags.
