@@ -1,4 +1,4 @@
-# Boxer
+# Boxer 2.0
 Auto scanning tool that will help you during playing on HackTheBox, TryHackMe...etc
 
 <img src="https://raw.githubusercontent.com/UncleJ1ck/Boxer/main/img/boxer.png">
