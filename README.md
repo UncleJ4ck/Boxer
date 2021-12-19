@@ -3,7 +3,7 @@ Auto scanning tool that will help you during playing on HackTheBox, TryHackMe...
 
 <img src="https://raw.githubusercontent.com/UncleJ1ck/Boxer/main/img/boxer.png">
 
-You can go make yourself a cup of tea or coffee and let it do the work for you
+You can go make yourself a cup of tea or coffee and let it do the work for you ! 
 
 # Features
 
