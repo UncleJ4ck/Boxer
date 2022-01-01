@@ -1,7 +1,9 @@
 # Boxer 2.0
 Auto scanning tool that will help you during playing on HackTheBox, TryHackMe...etc
 
-<img src="https://raw.githubusercontent.com/UncleJ1ck/Boxer/main/img/boxer.png">
+<p align="center">
+  <img src="https://i.imgur.com/Nd56Ar5.png"/>
+</p>
 
 You can go make yourself a cup of tea or coffee and let it do the work for you ! 
 
