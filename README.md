@@ -20,15 +20,6 @@ You can go make yourself a cup of tea or coffee and let it do the work for you !
 ```bash
 Usage: ./boxer.sh <target>
 ```
-Tested on: Ubuntu WSL2 and KaliLinux
-
-# Credits
-
-Thanks to [Jakom](https://github.com/RyouYoo) for this project, he's the one who gave me the permission to add those features and fix some bugs!
-
-
-# Share
-
-If you have any idea to add, I will be glad to know about it [ClickMe](https://github.com/RyouYoo/Boxer/issues/new)
+Tested on: KaliLinux
 
 
